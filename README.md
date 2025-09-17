@@ -27,5 +27,8 @@ Ce projet est le prototype d'un mini-jeu de rôle (RPG) 3D multijoueur, jouable 
         ```
     Le serveur démarrera par défaut sur le port 3000.
 
-3.  **Lancer le jeu :**
+3.  **.env FIle:**
+    remplacez le 'API KEY' dans server/.env
+    
+4.  **Lancer le jeu :**
     *   Ouvrez simplement le fichier `client/index.html` dans votre navigateur web. Pas besoin de serveur web, tout est géré côté client.
